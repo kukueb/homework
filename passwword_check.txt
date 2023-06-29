@@ -1,0 +1,6 @@
+password = '235'
+pass_try = 0
+while pass_try != password:
+    pass_try = input('Введите пароль: ')
+    print('Пароль неверный! Попробуйте войти ещё раз.')
+print("Вы успешно вошли в учётную запись!")

@@ -1,0 +1,10 @@
+import random
+Choice = random.choice
+animal = []
+quality = []
+for i in range(1, 4):
+    animal.append(input(f"Введите {i} животное: "))
+for a in range(1, 4):
+    quality.append(input(f"Введите {a} качество животного: "))
+for b in range (3):
+    print(Choice(quality), Choice(animal))

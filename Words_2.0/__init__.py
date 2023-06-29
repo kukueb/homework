@@ -1,0 +1,1 @@
+NAME = 'super_words_2.0'

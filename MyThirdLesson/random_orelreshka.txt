@@ -1,0 +1,9 @@
+import random
+
+player_choice = int(input('Орёл - 1, Решка - 2, что вы выбираете? '))
+computer_choice = random.randint(1, 2)
+
+if player_choice == computer_choice:
+    print('Вы угадали! Ура... победа!')
+else:
+    print('Вы не угадали, жаль конечно этого добряка...')

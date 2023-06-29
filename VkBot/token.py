@@ -1,0 +1,2 @@
+def key():
+    return 'vk1.a.rDtakXd_bdWRm6zmTiyDotrtoyhrvgtgJTHXFqRm5NO7qWXrqR7z7aW6RDN0E9kdaNEjSqLgOKJeVBUY3eJbFew0RTYepiJJk7pS6KS9EkEaFsHmNFi3NIkW7Fl8q2z0jVIKWPmWIPQVWCztOrcSfbcA_5FKOJOY1Pz9xsFtthSHhnXaQps1A3Nkd4xY2ZPOVSsUA1oAGqW3alp-oeZmWw'
